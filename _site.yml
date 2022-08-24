@@ -2,7 +2,7 @@ name: "Distill_website"
 title: "Esteban Calle"
 description: |
   Esteban Calle data and stuff
-output_dir: "docs"
+output_dir: "_site"
 navbar:
   right:
     - text: "Home"
