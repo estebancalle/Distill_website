@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-08-24-temazo/",
+    "title": "temazo",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2022-08-24",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-08-24T20:20:28+02:00",
+    "input_file": "temazo.knit.md"
+  }
+]
